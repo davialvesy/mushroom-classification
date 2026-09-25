@@ -1,6 +1,6 @@
 # 🍄 Classificação de Cogumelos com Machine Learning
 
-Trabalho avaliativo em grupo desenvolvido na disciplina de Inteligência Artificial da graduação, com o objetivo de classificar cogumelos como comestíveis ou venenosos utilizando técnicas de Machine Learning.
+Trabalho avaliativo em grupo desenvolvido na disciplina de Inteligência Artificial na graduação de Ciência da Computação, com o objetivo de classificar cogumelos como comestíveis ou venenosos utilizando técnicas de Machine Learning.
 
 ## 📖 Sobre o projeto
 
